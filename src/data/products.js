@@ -143,33 +143,6 @@ const products = [
     image: "🥥",
     background: "#e6f5e4",
   },
-
-   {
-    id: 13,
-    name: "Cigrette",
-    category: "chain smoker mohsin nawaz",
-    quantity: "1 piece",
-    price: 70,
-    originalPrice: 85,
-    discount: "17% OFF",
-    deliveryTime: "14 MINS",
-    image: "🚬",
-    background: "#e6f5e4",
-  },
-
-
-  {
-    id: 14,
-    name: "Ganja",
-    category: "chain smoker mohsin nawaz",
-    quantity: "1 piece",
-    price: 700,
-    originalPrice: 1000,
-    discount: "30% OFF",
-    deliveryTime: "14 MINS",
-    image: " 🌿",
-    background: "#e6f5e4",
-  },
 ];
 
 export default products;

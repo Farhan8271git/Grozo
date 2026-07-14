@@ -240,10 +240,6 @@ function App() {
       title: "Cold Drinks & Juices",
       category: "Cold Drinks & Juices",
     },
-
-    {title: "chain smoker mohsin nawaz",
-      category:"chain smoker mohsin nawaz",
-    },
   ];
 
 
